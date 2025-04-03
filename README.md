@@ -1,2 +1,2 @@
 # Guideu
-Mbile application
+Mobile application
